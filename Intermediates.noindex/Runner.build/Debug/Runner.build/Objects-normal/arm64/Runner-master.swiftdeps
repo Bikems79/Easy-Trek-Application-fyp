@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "a590575af1682d5a3dbe5cde7f0eb18a33e0dcbf0d347c7bbe4550e27d7faa14"
+build_start_time: [1673334823, 944708824]
+build_end_time: [1673334828, 675801992]
+inputs:
+  "/Users/breks/Documents/Easy Trek App - FYP/client/macos/Flutter/GeneratedPluginRegistrant.swift": [1673334814, 213016033]
+  "/Users/breks/Documents/Easy Trek App - FYP/client/macos/Runner/AppDelegate.swift": [1673334102, 865748643]
+  "/Users/breks/Documents/Easy Trek App - FYP/client/macos/Runner/MainFlutterWindow.swift": [1673334102, 869558334]
